@@ -1,0 +1,14 @@
+.container {background-color: rgb(172, 172, 172); max-width: 1200px; margin: 0 auto; height: 100%;}
+.container .first {background-color: rgb(225, 34, 9);  height: 80px ; width: 100%; ;margin-bottom: 20px;}
+.container .father {display: flex; justify-content: space-between;}
+.container .father div:nth-child(1) {background-color: rgb(47, 90, 199); height: 160px; width: 50%; margin: 20px;}
+.container .father div:nth-child(2) { background-color: rgb(95, 236, 95); height: 160px; width: 50%; margin: 20px;}
+.container .fatherSecond{display: flex; justify-content: space-between; margin-top: 15px;}
+.container .fatherSecond div:nth-child(1) {background-color: rgb(246, 52, 246); width: 33%; height: 40px; margin: 20px;}
+.container .fatherSecond div:nth-child(2) {background-color: rgb(246, 52, 246); width: 33%; height: 40px; margin: 20px;}
+.container .fatherSecond div:nth-child(3) {background-color: rgb(246, 52, 246); width: 33%; height: 40px; margin: 20px;}
+.container .fatherThird {display: flex; margin-top: 15px; height: 120px;}
+.container .fatherThird .fatherThirdB {width: 77%; height: 100%; margin-right: 20px;}
+.container .fatherThird .fatherThirdB div:nth-child(1) {background-color: rgb(244, 248, 43); height: 50%; width: 100%; margin: 20px;}
+.container .fatherThird .fatherThirdB div:nth-child(2) {background-color: rgb(156, 97, 210); height: 50%; width: 100%; margin: 20px;}
+.container .fatherThird div:nth-child(2) {background-color: rgb(39, 186, 208); width: 33%; height: 140px; margin: 20px;}
